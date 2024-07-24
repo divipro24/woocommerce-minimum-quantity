@@ -1,6 +1,5 @@
 <?php
 /*
-/*
 Plugin Name: WooCommerce Minimum Quantity
 Description: Adds a custom field to set the minimum order quantity for products in WooCommerce.
 Author URI: https://divipro24.com
@@ -9,7 +8,6 @@ Version: 1.0.0
 Author: Dmitri Andrejev
 Github URI: https://github.com/divipro24/failed-login-logger
 License: GPLv2
-*/
 */
 
 // Защита от прямого доступа
